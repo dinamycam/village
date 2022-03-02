@@ -43,7 +43,7 @@ pylint==2.1.1
 pyOpenSSL==18.0.0
 queuelib==1.5.0
 requests==2.20.0
-Scrapy==1.5.1
+Scrapy==1.8.2
 service-identity==17.0.0
 six==1.11.0
 slimit==0.8.1
