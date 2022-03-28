@@ -49,7 +49,7 @@ six==1.11.0
 slimit==0.8.1
 tinycss2==0.6.1
 traitlets==4.3.2
-Twisted==20.3.0
+Twisted==22.1.0
 urllib3==1.26.5
 w3lib==1.19.0
 wcwidth==0.1.7
