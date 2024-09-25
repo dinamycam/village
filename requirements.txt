@@ -16,7 +16,7 @@ decorator==4.3.0
 html5lib==1.0.1
 html5print==0.1.2
 hyperlink==18.0.0
-idna==2.7
+idna==3.7
 incremental==17.5.0
 ipython==8.10.0
 ipython-genutils==0.2.0
